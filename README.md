@@ -25,6 +25,14 @@
 
 
 ## 现存担忧
+拼接的url中有如下参数：<br/>
+![image](https://github.com/yyzhou94/SEU_Auto_Reconnection-for-PC/blob/master/parameter.png?raw=true)<br/>
+测试时该参数可以正常使用，但由于所在测试环境为无线谷，该参数是否唯一确定尚不明确，若测试时出现问题，欢迎留言<br/>
 
+
+## 关于转载
+大家自行用用就好，就别大张旗鼓地向国内论坛转载了~<br/>
+
+Produced by yyzhou
 
 
