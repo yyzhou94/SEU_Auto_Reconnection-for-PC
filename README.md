@@ -31,8 +31,8 @@
 
 
 ## 关于转载
-大家自行用用就好，就别大张旗鼓地向国内论坛转载了~<br/>
+大家自行用用就好，喜欢的话记得素质三连(Watch,Star and Fork)，就别大张旗鼓地向国内论坛转载了~<br/>
 
-## Produced by yyzhou
+## Produced by yyzhou from School of Cyber Science and Engineering
 
 
