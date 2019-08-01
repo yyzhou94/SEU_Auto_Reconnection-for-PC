@@ -1,7 +1,7 @@
 # SEU_Auto_Reconnection-for-PC
 
 # 东南大学SEU-Wlan新版网页认证(2019-08-01后)<br/>
-# 断网自动重连脚本<br/>(限PC)<br/>
+# 断网自动重连脚本(限PC)<br/>
 
 ## 运行环境
 * Python 3<br/>
